@@ -1,4 +1,4 @@
-// Copyright (c) 2024 Clara All rights reserved
+// Copyright (c) 2024 Clara Tyman All rights reserved
 //
 // Created by: Clara Tyman
 // Created on: May 2024
